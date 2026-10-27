@@ -1,0 +1,66 @@
+# Ninja Master's: coin, start, tutorial, then a scripted match.
+# Frame numbers count 59.19 Hz ticks from power-on.  The BIOS eyecatcher
+# ends near 600 and the title appears around 1000; a coin inserted during
+# the transition (frame 900) is not latched, so insert it on the title.
+1300-1310 coin
+1500-1510 start
+# The game shows its how-to-play pages, then the character select.
+3200-3210 a
+3600-3610 a
+# Match: move, attack, block, repeat.
+4200-5000 right
+4400 a
+4500 b
+4600 c
+4700 d
+5100-5800 left
+5300 b
+5500 c
+5900-6600 right
+6100 a
+6300 d
+6700-7400 down
+6900 b
+7100 c
+7500-8200 up
+7700 a
+7900 d
+8300-9000 right
+8500 c
+8700 d
+9100-9800 left
+9300 a
+9500 b
+9900-10600 right
+10100 c
+10300 d
+10700-11400 down
+10900 a
+11100 b
+11500-12200 up
+11700 c
+11900 d
+12300-13000 left
+12500 a
+12700 b
+13100-13800 right
+13300 c
+13500 d
+13900-14600 down
+14100 a
+14300 b
+14700-15400 up
+14900 c
+15100 d
+15500-16200 left
+15700 a
+15900 b
+16300-17000 right
+16500 c
+16700 d
+17100-17800 down
+17300 a
+17500 b
+17900-18600 up
+18100 c
+18300 d

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Ninja Master's: Haoh-Ninpo-Cho
+Comment=Native static recompilation of Ninja Master's (Neo Geo MVS)
+Exec=Ninjamasters
+Icon=ninjamasters
+Categories=Game;ArcadeGame;
+Terminal=false

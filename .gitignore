@@ -1,0 +1,12 @@
+﻿build-linux/
+build-windows/
+build-interp/
+dist/
+roms/
+roms-src/
+generated/
+entries*.txt
+*.wav
+*.png
+!packaging/appimage/ninjamasters.png
+!docs/screenshots/*.png
